@@ -1,0 +1,6 @@
+output/*.flac
+output/*.wav
+output/**/*.jpg
+output/**/*.pdf
+output/*.pdf
+output/*.sh
