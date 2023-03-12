@@ -1,5 +1,6 @@
 output/*.flac
 output/*.wav
+output/*.ogg
 output/**/*.jpg
 output/**/*.pdf
 output/*.pdf

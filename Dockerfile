@@ -27,4 +27,4 @@ RUN chmod u+x *.sh
 RUN chmod u+x *.bash 
 
 USER app-user
-ENTRYPOINT [ "/home/app-user/process_input_files.sh" ]
+ENTRYPOINT [ "/home/app-user/process_files.sh" ]
